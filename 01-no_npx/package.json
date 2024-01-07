@@ -1,0 +1,22 @@
+{
+  "name": "01-no_npx",
+  "version": "1.0.0",
+  "description": "react without npx",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal1thakur/namasteReact.git"
+  },
+  "author": "Vishal Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal1thakur/namasteReact/issues"
+  },
+  "homepage": "https://github.com/vishal1thakur/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
